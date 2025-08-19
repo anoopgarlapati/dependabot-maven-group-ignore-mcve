@@ -31,5 +31,10 @@
             <artifactId>tomcat-juli</artifactId>
             <version>${tomcat.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>2.0.3</version>
+        </dependency>
     </dependencies>
 </project>
